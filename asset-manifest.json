@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Medical-Dashboard/static/css/main.2d46f16b.css",
-    "main.js": "/Medical-Dashboard/static/js/main.e3dc2e59.js",
-    "static/js/453.11da5fe0.chunk.js": "/Medical-Dashboard/static/js/453.11da5fe0.chunk.js",
-    "index.html": "/Medical-Dashboard/index.html",
-    "main.2d46f16b.css.map": "/Medical-Dashboard/static/css/main.2d46f16b.css.map",
-    "main.e3dc2e59.js.map": "/Medical-Dashboard/static/js/main.e3dc2e59.js.map",
-    "453.11da5fe0.chunk.js.map": "/Medical-Dashboard/static/js/453.11da5fe0.chunk.js.map"
+    "main.css": "/Medical-dashboard/static/css/main.2d46f16b.css",
+    "main.js": "/Medical-dashboard/static/js/main.fdda357f.js",
+    "static/js/453.11da5fe0.chunk.js": "/Medical-dashboard/static/js/453.11da5fe0.chunk.js",
+    "index.html": "/Medical-dashboard/index.html",
+    "main.2d46f16b.css.map": "/Medical-dashboard/static/css/main.2d46f16b.css.map",
+    "main.fdda357f.js.map": "/Medical-dashboard/static/js/main.fdda357f.js.map",
+    "453.11da5fe0.chunk.js.map": "/Medical-dashboard/static/js/453.11da5fe0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d46f16b.css",
-    "static/js/main.e3dc2e59.js"
+    "static/js/main.fdda357f.js"
   ]
 }
